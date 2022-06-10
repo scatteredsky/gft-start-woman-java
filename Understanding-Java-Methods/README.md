@@ -1,4 +1,4 @@
-#Exercício
+# Exercício 1
 
 Crie uma aplicação que resolva as seguintes situações:
 -Calcule as 4 operações básicas: soma, subtração, multiplicação e divisão. Sempre 2 valores devem ser passados.
